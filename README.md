@@ -9,3 +9,7 @@ Excel data is cleaned and various experiments are done using different classific
 When it comes to individual algorithm, the SVM with linear kernel performs really well.
 
 But when stacking is done, it predicts the result with very good accuracy.
+
+fbref.com and transfermarkt are the websites used. Similar analysis can be done for other domestic leagues like English Premier League, Bundesliga, Ligue 1 and all other football leagues played around the world.
+
+
